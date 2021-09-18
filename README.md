@@ -1,5 +1,5 @@
 ### Hi there 👋👻
-**I am a kid from Sri Lanka 🇱🇰 learning code, with the dream of being a software engineer.
+**I am a kid from Sri Lanka 🇱🇰 learning code, with the dream of being a software engineer.**
 <!--
 **udnisap208/udnisap208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
